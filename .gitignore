@@ -1,0 +1,16 @@
+*.class
+*.jar
+*.war
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+bin/
+out/
+target/
+saved_game.json
+scores.json
+*.log
+.vs/
